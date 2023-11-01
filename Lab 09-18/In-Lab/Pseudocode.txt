@@ -1,0 +1,16 @@
+Start
+	declarations
+	string employee
+	double salary
+	double bouns
+	double sum
+	output"Enter your name"
+	input name
+	output"Enter your base salary"
+	input salary
+	output"Enter your bonus amount"
+	input bouns
+	sum = salary + bouns
+	output"Hello " employee " Your total payment is " sum "."
+Stop
+	
